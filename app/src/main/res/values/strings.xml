@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Game Backlog Kotlin</string>
+    <string name="title_add_activity">AddActivity</string>
+    <string name="game_release">Release: %s</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_platform">Platform</string>
+    <string name="hint_day">Day</string>
+    <string name="hint_month">Month</string>
+    <string name="hint_year">Year</string>
+    <string name="splitter_space">\u0020</string>
+    <string name="splitter_min">-</string>
+    <string name="field_check_date">Please fill in a valid date</string>
+    <string name="field_check_platform">Please fill in a platform</string>
+    <string name="field_check_title">Please fill in a title</string>
+    <string name="format_date">dd-MM-yyyy</string>
+    <string name="undo_text">UNDO</string>
+    <string name="delete_backlog">Successfully deleted backlog</string>
+    <string name="delete_game">Successfully deleted game</string>
+    <string name="action_delete_game_history">Delete Game History</string>
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+</resources>
